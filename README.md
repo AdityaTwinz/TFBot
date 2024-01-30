@@ -13,7 +13,7 @@
 
 *Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.*
 
-[![@adityaexec_](https://github.com/AdityaTwinz/JNT/blob/main/assets/images%20(5).jpeg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+[![@adityaexec_](https://github.com/AdityaTwinz/TFBot/blob/main/assets/IMG_20240130_220116.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
