@@ -1,4 +1,4 @@
-[![@adityaexec_](https://github.com/AdityaTwinz/JNT/blob/main/assets/images%20(5).jpeg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
+
 
 ```text
  ▄▄▄▄▄·▄▄▄▄▄▄▄·       ▄▄▄▄▄
@@ -12,6 +12,8 @@
 <img title="TFBot" src="https://img.shields.io/badge/CODENAME%20-TFBot-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> <img title="TFBot" src="https://img.shields.io/badge/VERSION%20-1.0-SCRIPT?colorA=black&colorB=darkred&style=for-the-badge"> 
 
 *Script ini tidak memerlukan pembaruan karena diperbarui secara otomatis setiap saat. Anda tidak perlu khawatir jika terjadi masalah karena script ini akan mempelajari cara update selanjutnya.*
+
+[![@adityaexec_](https://github.com/AdityaTwinz/JNT/blob/main/assets/images%20(5).jpeg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 #### CARA INSTALL SCRIPT:
  download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
